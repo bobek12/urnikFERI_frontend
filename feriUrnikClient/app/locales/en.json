@@ -1,0 +1,47 @@
+{
+    "Home": {
+      "students": "STUDENTS",
+      "tutors": "TUTORS",
+      "classrooms": "CLASSROOMS",
+      "savedchoice": "You have saved choice",
+      "alertchoicetitle": "Information about saved choice",
+      "alertchoicemsg": "Program: {{izbranPredmet}} \n \nYear: {{izbranLetnik}} \n \nCourse: {{izbranaSmer}}",
+      "alertclose": "Zapri"
+    },
+    "Student": {
+      "program": "Program",
+      "chooseprogram": "Choose Program ...",
+      "year": "Year",
+      "chooseyear": "Choose Year ...",
+      "course": "Course",
+      "group": "Group",
+      "grouppicker": "Pick Groups ...",
+      "rememberchoice": "Remember this choice",
+      "display": "DISPLAY SCHEDULE",
+      "alertgrouptitle": "Choice of group is required",
+      "alertgroupmsg": "Please choose group.",
+      "alertclose": "Close",
+      "alertinternettitle": "You don't have access to data",
+      "alertinternetpmsg": "No Internet connection available. Please make sure your device is connected to the Internet."
+    },
+    "Professor": {
+      "search": "search"
+    },
+    "Classrooms": {
+      "search": "search"
+    },
+    "Schedule": {
+      "monday": "Mon",
+      "tuesday": "Tue",
+      "wednesday": "Wed",
+      "thursday": "Thu",
+      "friday": "Fri"
+    },
+    "Navigation": {
+      "home": "FERI urnik",
+      "student": "Schedule for students",
+      "professor": "Schedule for tutors",
+      "classroom": "Schedule for classrooms",
+      "schedule": "Schedule"
+    }
+}

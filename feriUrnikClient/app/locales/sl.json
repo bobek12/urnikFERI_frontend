@@ -1,0 +1,47 @@
+{
+    "Home": {
+      "students": "ŠTUDENTI",
+      "tutors": "VISOKOŠOLSKI UČITELJI IN SODELAVCI",
+      "classrooms": "PROSTORI",
+      "savedchoice": "Shranjeno imate izbiro",
+      "alertchoicetitle": "Podatki o shranjeni izbiri",
+      "alertchoicemsg": "Program: {{izbranPredmet}} \n \nLetnik: {{izbranLetnik}} \n \nSmer: {{izbranaSmer}}",
+      "alertclose": "Zapri"
+    },
+    "Student": {
+      "program": "Program",
+      "chooseprogram": "Izberi program ...",
+      "year": "Letnik",
+      "chooseyear": "Izberi letnik ...",
+      "course": "Smer",
+      "group": "Skupina",      
+      "grouppicker": "Izberi skupine ...",
+      "rememberchoice": "Zapomni si to izbiro",
+      "display": "PRIKAŽI URNIK",
+      "alertgrouptitle": "Potrebna je izbira skupine",
+      "alertgroupmsg": "Prosim, izberite skupino.",
+      "alertclose": "Zapri",
+      "alertinternettitle": "Nimate dostopa do podatkov",
+      "alertinternetpmsg": "Akcija ni možna brez internetne povezave. Prepričajte se, da je z napravo vzpostavljena internetna povezava."
+    },
+    "Professor": {
+      "search": "išči"
+    },
+    "Classrooms": {
+      "search": "išči"
+    },
+    "Schedule": {
+      "monday": "Pon",
+      "tuesday": "Tor",
+      "wednesday": "Sre",
+      "thursday": "Čet",
+      "friday": "Pet"
+    },
+    "Navigation": {
+      "home": "FERI urnik",
+      "student": "Urnik za študente",
+      "professor": "Urnik za visokošolske učitelje in sodelavce",
+      "classroom": "Urnik za prostore",
+      "schedule": "Urnik"
+    }
+}
